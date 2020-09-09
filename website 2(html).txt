@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>website</title>
+    <link rel="stylesheet" href="style2.css">
+    <link rel="icon" href="img/favicon.ico">
+</head>
+<body>
+    <!-- start nav bar  -->
+    <div class="nav">
+        <div class="contan">
+            <div class="content">
+                <h2>START BOOTSTRAP</h2>
+             <ul>
+                <li>PORTFOLIO</li>
+                 <li>AOBOUT</li>
+                <li>CONTACT</li>
+            </ul>
+            </div>
+
+        </div>
+
+    </div>
+    <!-- end nav bar -->
+    <!-- start header  -->
+    <div style="clear:both;"></div>
+<div class="header">
+    <div contan>
+        
+            <div class="img">
+               <img src="img/avataaars.svg" alt="this an img"/>
+            </div>
+            <div class="header-content">
+                <h1>START BOOTSTRAP</h1>
+                <p>Graphic Artist-Web Desigine-lllustrator</p>
+            </div>
+    </div>
+</div>
+<!-- end header -->
+<!-- start about -->
+<div class="about1">
+    <div class= "contan">
+        <div><h1>PORTFOLIO</h1></div>
+        <div class="img-about1">
+            <img src="img/cabin.png" alt="">
+            <img src="img/cake.png" alt="">
+            <img src="img/circus.png" alt="">
+            <img src="img/game.png" alt="">
+            <img src="img/safe.png" alt="">
+            <img src="img/submarine.png" alt="">
+        </div>
+    </div>
+</div>
+    <!-- end about1 -->
+    <div style="clear:both;"></div>
+    <!-- start about2 -->
+    <DIV CLASS="AA">
+<div class="about2">
+    <div class="contan">
+        <div class="content">
+            <h1> ABOUT</h1>
+            <div class="a"><p>Freelancer is a free bootstrap theme created by Start bootstrap The download inclides the complete source files including HTML, CSS and JabaScript as well as optionas SASS Sstylesheets for easy custoization</p>
+            </div>
+            <div class="b" ><p>you can create your own custom avatar for the masthead, change the icon in the dibiders, and add your email address to the cotact form to make it fully functional!</p>
+        </div>
+              
+                    <button>Free Donwmload!</button>
+               
+    </div>
+</div>
+</DIV>
+<!-- end about -->
+<!-- start contact -->
+<div class="contact">
+    <div class="contan">
+        <div class="content">
+<h1>CONTACT ME</h1>
+
+<FORM>
+    <input type="text" placeholder="Name">
+
+    <INPUT type="email" placeholder="Email Address">
+    
+        <input type="number" placeholder="Phone Number">
+    
+        <input type="text" placeholder="Message">
+
+
+
+
+
+</FORM>
+<div class="in2">
+<form><input type="submit" value="send"></form>
+</div>
+        </div>
+    </div>
+</div>
+<!-- end contact -->
+<!-- start about3 -->
+<div class="about3">
+    <div class="content">
+    <h1>ABOUT FREELANCER</h1>
+    <p>Frellance is a free to use, MIT licensed Bootstrap theme created by </p>
+    <br/>
+    <a href="#" style="color: teal;">Start Bootstrap </a>
+    <p>.</p>
+    </div>
+
+</div>
+<!-- end about3 -->
+<!-- start footer -->
+<div class="footer">
+    <div class="content">
+        <h6>Copyright © Osama Mohammed website 2020</h6>
+    </div>
+</div>
+
+</body>
+</html>
+<!-- end footer -->
